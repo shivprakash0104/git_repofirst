@@ -1,0 +1,2 @@
+stash command used for to resume working point if any.
+added some parameter
